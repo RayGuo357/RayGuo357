@@ -1,7 +1,5 @@
 # Hi there 👋
 
----
-
 | ![Raymond's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RayGuo357&theme=dracula&show_icons=true$langs_count=8&layout=compact)       |  ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayGuo357&theme=dracula&show_icons=true) |
 | ------------- | :-------------: |
 
