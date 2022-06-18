@@ -3,7 +3,11 @@
 | ![Raymond's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RayGuo357&theme=dracula&show_icons=true$langs_count=8&layout=compact)       |  ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayGuo357&theme=dracula&show_icons=true) |
 | ------------- | :-------------: |
 
+## Current Projects
 
+- [x] [Spotify Lyrics App](https://github.com/RayGuo357/SpotifyLyrics)
+- [ ] [Budget Web App](https://github.com/RayGuo357/budget-web-app)
+- [ ] Weight Tracker w/ Login and DB
 
 
 <!--
