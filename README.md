@@ -7,7 +7,7 @@
 
 - [x] [Spotify Lyrics App](https://github.com/RayGuo357/SpotifyLyrics)
 - [ ] [Budget Web App](https://github.com/RayGuo357/budget-web-app)
-- [ ] Weight Tracker w/ Login and DB
+- [ ] [Weight Tracker](https://github.com/RayGuo357/no-time-to-weight)
 
 
 <!--
