@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=rayguo357&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" src="https://git.io/streak-stats"></p>
-
 | ![Raymond's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RayGuo357&theme=dracula&show_icons=true$langs_count=8&layout=compact)       |  ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayGuo357&theme=dracula&show_icons=true) |
 | ------------- | :-------------: |
 
